@@ -1,0 +1,6 @@
+branch1 Prv zbor
+branch1 Vtor zbor
+branch1 Tret zbor
+branch1 Cetvrt zbor
+branch1 Peti zbor
+branch1 Dodaden nov zbor na prethoden commit
